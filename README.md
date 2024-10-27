@@ -4,6 +4,9 @@ Tanks 2D multiplayer game using HTML &amp; CSS, Bootstrap, JS, Node.js, express.
 Hello Iryna Zoria and Dmytro Prysiazhnyi <3
 
 To start project:
-\nnpm install
-\nnpm run build
-\nnode ./src/server/server.js
+
+-> npm install
+
+-> npm run build
+
+-> node ./src/server/server.js
